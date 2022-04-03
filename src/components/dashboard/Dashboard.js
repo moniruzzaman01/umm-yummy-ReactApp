@@ -21,7 +21,7 @@ const Dashboard = () => {
   }, []);
   console.log(data);
   return (
-    <div style={{ margin: "20px" }}>
+    <div className="dashboard">
       <div>
         <h1>Line Chart</h1>
         <LineChart
