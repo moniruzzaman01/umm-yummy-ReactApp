@@ -2,6 +2,17 @@
   text-align: center;
   margin: 20px;
 }
+.customer-review-container button {
+  margin-top: 50px;
+  border: none;
+  background-color: tomato;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 40px;
+  cursor: pointer;
+}
 .customer-review {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

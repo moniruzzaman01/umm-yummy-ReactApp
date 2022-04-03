@@ -2,6 +2,7 @@
   border: 1px solid tomato;
   border-radius: 5px;
   padding: 10px;
+  min-height: 20vh;
 }
 .review h1 {
   margin: 0;
