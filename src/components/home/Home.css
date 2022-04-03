@@ -6,13 +6,16 @@
   padding: 20px;
   align-items: center;
 }
+.home-container .img {
+  display: flex;
+  justify-content: center;
+}
 .home-container img {
   max-height: 80vh;
 }
 .home-container .details h2 {
   font-size: 60px;
 }
-
 .home-container .details h2 sub {
   font-size: 18px;
   font-weight: bold;

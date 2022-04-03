@@ -1,0 +1,32 @@
+[
+  {
+    "name": "shakib",
+    "comment": "He is awesome.",
+    "ratings": "4"
+  },
+  {
+    "name": "rakib",
+    "comment": "Just WOW!",
+    "ratings": "3"
+  },
+  {
+    "name": "abdullah",
+    "comment": "good work",
+    "ratings": "5"
+  },
+  {
+    "name": "tonmoy",
+    "comment": "satisfied",
+    "ratings": "4"
+  },
+  {
+    "name": "sakibul",
+    "comment": "georgeous",
+    "ratings": "5"
+  },
+  {
+    "name": "murad",
+    "comment": "recommanded",
+    "ratings": "3"
+  }
+]

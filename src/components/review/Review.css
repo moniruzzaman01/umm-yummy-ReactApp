@@ -1,0 +1,11 @@
+.review {
+  border: 1px solid tomato;
+  border-radius: 5px;
+  padding: 10px;
+}
+.review h1 {
+  margin: 0;
+}
+.review p {
+  margin: 0;
+}

@@ -1,0 +1,9 @@
+.customer-review-container {
+  text-align: center;
+  margin: 20px;
+}
+.customer-review {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
