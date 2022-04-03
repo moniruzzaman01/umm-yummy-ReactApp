@@ -9,13 +9,12 @@
   margin-left: 20px;
   padding: 5px 20px;
   border-radius: 5px;
-  border-bottom: 2px solid salmon;
+  border-bottom: 2px solid tomato;
   color: #000;
   font-size: 16px;
   font-weight: bold;
   transition: all 0.2s;
 }
 .navbar a:hover {
-  border-bottom: 2px solid #000;
   color: salmon;
 }
