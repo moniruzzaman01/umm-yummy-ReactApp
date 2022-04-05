@@ -12,10 +12,8 @@ const Home = () => {
             Umm-Yummy<sub>Home of your desired food.</sub>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. In at ab
-            molestiae quae ullam animi accusantium commodi amet, quod
-            necessitatibus obcaecati nihil fuga soluta optio aut impedit, ad
-            voluptates omnis?
+            Tasty and Healthy foods are waiting for you here. You just need to
+            come and grave those. We are welcoming you here.
           </p>
           <button>More...</button>
         </div>

@@ -19,7 +19,7 @@ const CustomerReview = () => {
           <Review key={index} review={review}></Review>
         ))}
       </div>
-      <button onClick={goToReview}>See all review</button>
+      <button onClick={goToReview}>See all reviews</button>
     </div>
   );
 };
