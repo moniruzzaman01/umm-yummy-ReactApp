@@ -15,7 +15,7 @@ const CustomerReview = () => {
     <div className="customer-review-container">
       <h1>Customer Review</h1>
       <div className="customer-review">
-        {reviews.map((review, index) => (
+        {reviews.slice(0, 3).map((review, index) => (
           <Review key={index} review={review}></Review>
         ))}
       </div>
